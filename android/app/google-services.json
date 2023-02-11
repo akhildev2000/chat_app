@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "711310750996",
+    "project_id": "say-hi-c30b8",
+    "storage_bucket": "say-hi-c30b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711310750996:android:137d1e937cfc1b2c6a7e01",
+        "android_client_info": {
+          "package_name": "com.example.say_hi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711310750996-1mjlbucjr4sjp2odhddqii86fhn4ktrm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.say_hi",
+            "certificate_hash": "d3f1d456542d9990f64a43e40b087f3fec6d1a6b"
+          }
+        },
+        {
+          "client_id": "711310750996-agm3ga3n58ov6baktkt03omhjmm1fvb0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.say_hi",
+            "certificate_hash": "39710217278dff33ffcbf465473d1eafef54f0fc"
+          }
+        },
+        {
+          "client_id": "711310750996-h8m5fntl8894hnnru70gochksulk8e9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFJukUzatRpH3bCz_eAcFMEQBx32gcVcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711310750996-h8m5fntl8894hnnru70gochksulk8e9g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "711310750996-tifp1iru4qs6hn7mn94cfnf11lfuu6qv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sayHi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
